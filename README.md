@@ -29,3 +29,19 @@
 [Kotlin Playground: Edit, Run, Share Kotlin Code Online](https://play.kotlinlang.org/)
 
 [An Absolute Beginner's Guide to Kotlin by Treehouse](https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin)
+
+## Tools
+
+[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Available on Windows, macOS, Linux, Chrome OS.
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) is an IDE for Java, but it also understands and provides intelligent coding assistance for a large variety of other languages such as Kotlin, SQL, JPQL, HTML, JavaScript, etc., even if the language expression is injected into a String literal in your Java code.
+
+[vue-kotlin](https://github.com/nosix/vue-kotlin) is libraries and tools supporting the use of Vue.js in Kotlin.
+
+[kotlinx-lincheck](https://github.com/Kotlin/kotlinx-lincheck) is a framework for testing concurrent data structures for correctness. 
+
+[kotlinx-io](https://github.com/Kotlin/kotlinx-io) is a multiplatform library for processing binary data, working with memory blocks, interacting with the platform, and performing other low level operations.
+
+[kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) is a tool that produces Kotlin source example files and tests from markdown documents with embedded snippets of Kotlin code. It also helps to add links to the API documentation website into the documents and has a few other helpful markdown-management features.
+
+[Kotlin Xcode compatibility Gradle plugin](https://github.com/Kotlin/xcode-compat) is a plugin is used by [AppCode](https://jetbrains.com/appcode) to set up Kotlin/Native project along with Xcode.
