@@ -12,6 +12,10 @@
 
 [Kotlin Programming Language Reference](https://kotlinlang.org/docs/reference/)
 
+[Google Developers Training](https://developers.google.com/training/)
+
+[Google Developers Certification](https://developers.google.com/certification/)
+
 [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
 
 [Learn the Kotlin programming language](https://developer.android.com/kotlin/learn)
