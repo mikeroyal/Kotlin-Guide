@@ -6,7 +6,14 @@
 
 #### A guide covering the Kotlin programming language including the applications and tools that will make you a better and more efficient Kotlin developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279009-e17a7e80-bbdd-11eb-94d1-d176e6d5d98d.png">
+  <br />
+</p>
+
+# Kotlin Learning Resources
 
 [Kotlin](https://kotlinlang.org/) is a very popular programming language that targets the JVM. Kotlin has experienced a surge in popularity the last few years making it the most popular JVM language not including Java.
 
@@ -40,7 +47,7 @@
 
 [Kotlin Bootcamp for Programmers course from Udacity](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
-## Tools
+# Kotlin Tools and Frameworks
 
 [Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Available on Windows, macOS, Linux, and Chrome OS.
 
@@ -57,3 +64,12 @@
 [kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) is a tool that produces Kotlin source example files and tests from markdown documents with embedded snippets of Kotlin code. It also helps to add links to the API documentation website into the documents and has a few other helpful markdown-management features.
 
 [Kotlin Xcode compatibility Gradle plugin](https://github.com/Kotlin/xcode-compat) is a plugin is used by [AppCode](https://jetbrains.com/appcode) to set up Kotlin/Native project along with Xcode.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Kotlin-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
