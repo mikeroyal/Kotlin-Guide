@@ -69,6 +69,8 @@
 
 [Gradle](https://github.com/gradle/gradle) is a build automation tool that supports multi-language development. If you're building, testing, publishing, and deploying software on any platform, Gradle offers a flexible model that can support the entire development lifecycle from compiling and packaging code to publishing web sites. Gradle is designed to support build automation across multiple languages and platforms including Java, Scala, Android, C/C++, Swift, and Groovy, which is closely integrated with development tools and continuous integration servers including Eclipse, IntelliJ, and Jenkins.
 
+[Kotlin Xcode compatibility Gradle plugin](https://github.com/Kotlin/xcode-compat) is a plugin is used by [AppCode](https://jetbrains.com/appcode) to set up Kotlin/Native project along with Xcode.
+
 [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is the AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time.
 
 [okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square.
@@ -80,8 +82,6 @@
 [kotlinx-io](https://github.com/Kotlin/kotlinx-io) is a multiplatform library for processing binary data, working with memory blocks, interacting with the platform, and performing other low level operations.
 
 [kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) is a tool that produces Kotlin source example files and tests from markdown documents with embedded snippets of Kotlin code. It also helps to add links to the API documentation website into the documents and has a few other helpful markdown-management features.
-
-[Kotlin Xcode compatibility Gradle plugin](https://github.com/Kotlin/xcode-compat) is a plugin is used by [AppCode](https://jetbrains.com/appcode) to set up Kotlin/Native project along with Xcode.
 
 ## Contribute
 
