@@ -73,15 +73,15 @@
 
 [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is the AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time.
 
-[okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square.
+[Okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square.
 
-[vue-kotlin](https://github.com/nosix/vue-kotlin) is libraries and tools supporting the use of Vue.js in Kotlin.
+[Vue-kotlin](https://github.com/nosix/vue-kotlin) is a collection of libraries and tools supporting the use of Vue.js in Kotlin.
 
-[kotlinx-lincheck](https://github.com/Kotlin/kotlinx-lincheck) is a framework for testing concurrent data structures for correctness. 
+[Kotlinx-lincheck](https://github.com/Kotlin/kotlinx-lincheck) is a framework for testing concurrent data structures for correctness. 
 
-[kotlinx-io](https://github.com/Kotlin/kotlinx-io) is a multiplatform library for processing binary data, working with memory blocks, interacting with the platform, and performing other low level operations.
+[Kotlinx-io](https://github.com/Kotlin/kotlinx-io) is a multiplatform library for processing binary data, working with memory blocks, interacting with the platform, and performing other low level operations.
 
-[kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) is a tool that produces Kotlin source example files and tests from markdown documents with embedded snippets of Kotlin code. It also helps to add links to the API documentation website into the documents and has a few other helpful markdown-management features.
+[Kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) is a tool that produces Kotlin source example files and tests from markdown documents with embedded snippets of Kotlin code. It also helps to add links to the API documentation website into the documents and has a few other helpful markdown-management features.
 
 ## Contribute
 
